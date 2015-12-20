@@ -4,7 +4,7 @@
 [Git 最佳实践](https://www.atlassian.com/git/)</br>
 [Git 快速开始](http://rogerdudler.github.io/git-guide/)</br>
 [Git Interactive Learning](http://pcottle.github.io/learnGitBranching/?demo)</br>
-[Git revert用法](http://www.cnblogs.com/0616--ataozhijia/p/3709917.html)</br>
+[Git revert用法](http://www.cnblogs.com/0616--ataozhijia/p/3709917.html)
 [Github 参考工作流](https://github.com/vincenthou/vincenthou.github.io/issues/1)</br>
 
 ### Issue Resolved
