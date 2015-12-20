@@ -9,7 +9,6 @@
 ### Issue Resolved
 [You have not concluded your merge (MERGE_HEAD exists) git拉取失败](http://yijiebuyi.com/blog/5b55eb51ad49ce41e2de9c85dd4513ca.html)</br>
 [Git revert 用法](http://www.cnblogs.com/0616--ataozhijia/p/3709917.html)
-revert  test
 
 #### 小贴士
 删除远程分支: git push origin :branch-name</br>
