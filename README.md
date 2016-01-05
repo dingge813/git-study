@@ -15,5 +15,5 @@
 切换到远程develop分支并在本地新建关联分支develop: git checkout -t origin/develop -b develop</br>
 拉取远程分支到本地: git fetch origin origin_branch_name:local_branch_name<br/>
 提交记录: C0 -> C1 -> C2 ->C3</br>
-&nbsp;&nbsp;产生一次新提交,抵消掉C1,C2,C3三次提交: git revert C1</br>
+&nbsp;&nbsp;产生一次新提交,抵消掉C1提交: git revert C1</br>
 &nbsp;&nbsp;撤消C2,C3两次提交(--hard不仅仅撤消提交历史): git reset --hard C1</br>
